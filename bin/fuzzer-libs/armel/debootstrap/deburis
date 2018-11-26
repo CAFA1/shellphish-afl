@@ -1,0 +1,6 @@
+gcc-4.9-base 4.9.2-10+deb8u1 http://ftp.us.debian.org/debian/pool/main/g/gcc-4.9/gcc-4.9-base_4.9.2-10+deb8u1_armel.deb
+libgcc1 1:4.9.2-10+deb8u1 http://ftp.us.debian.org/debian/pool/main/g/gcc-4.9/libgcc1_4.9.2-10+deb8u1_armel.deb
+libstdc++6 4.9.2-10+deb8u1 http://ftp.us.debian.org/debian/pool/main/g/gcc-4.9/libstdc++6_4.9.2-10+deb8u1_armel.deb
+libc-bin 2.19-18+deb8u10 http://ftp.us.debian.org/debian/pool/main/g/glibc/libc-bin_2.19-18+deb8u10_armel.deb
+libc6 2.19-18+deb8u10 http://ftp.us.debian.org/debian/pool/main/g/glibc/libc6_2.19-18+deb8u10_armel.deb
+multiarch-support 2.19-18+deb8u10 http://ftp.us.debian.org/debian/pool/main/g/glibc/multiarch-support_2.19-18+deb8u10_armel.deb

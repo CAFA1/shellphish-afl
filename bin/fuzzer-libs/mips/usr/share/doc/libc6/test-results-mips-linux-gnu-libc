@@ -1,0 +1,33 @@
+#
+# Testsuite failures, someone should be working towards
+# fixing these! They are listed here for the purpose of
+# regression testing during builds.
+# Format: <Failed test>, Error <Make error code> [(ignored)]
+#
+annexc.out, Error 1 (ignored)
+bug22.out, Error 1
+check-execstack.out, Error 1
+check-localplt.out, Error 1
+run-conformtest.out, Error 1 (ignored)
+tst-audit1.out, Error 127
+tst-audit2.out, Error 127
+tst-audit8.out, Error 127
+tst-barrier3.out, Error 1
+tst-basic3.out, Error 1
+tst-cond20.out, Error 1
+tst-cond21.out, Error 1
+tst-cond3.out, Error 1
+tst-eintr1.out, Error 1
+tst-mutex7.out, Error 1
+tst-mutex7a.out, Error 1
+tst-mutexpi7.out, Error 1
+tst-mutexpi7a.out, Error 1
+tst-once2.out, Error 1
+tst-robust8.out, Error 1
+tst-robustpi8.out, Error 1
+tst-rwlock10.out, Error 1
+tst-rwlock11.out, Error 1
+tst-rwlock8.out, Error 1
+tst-rwlock9.out, Error 1
+tst-sem14.out, Error 1
+tst-setlocale3.out, Error 1

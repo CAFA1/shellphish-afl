@@ -1,0 +1,8 @@
+gcc-4.8-base 4.8.2-19ubuntu1 http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gcc-4.8/gcc-4.8-base_4.8.2-19ubuntu1_armhf.deb
+gcc-4.9-base 4.9-20140406-0ubuntu1 http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gccgo-4.9/gcc-4.9-base_4.9-20140406-0ubuntu1_armhf.deb
+libc-bin 2.19-0ubuntu6 http://ports.ubuntu.com/ubuntu-ports/pool/main/e/eglibc/libc-bin_2.19-0ubuntu6_armhf.deb
+libc6 2.19-0ubuntu6 http://ports.ubuntu.com/ubuntu-ports/pool/main/e/eglibc/libc6_2.19-0ubuntu6_armhf.deb
+libcap2 1:2.24-0ubuntu2 http://ports.ubuntu.com/ubuntu-ports/pool/main/libc/libcap2/libcap2_2.24-0ubuntu2_armhf.deb
+libgcc1 1:4.9-20140406-0ubuntu1 http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gccgo-4.9/libgcc1_4.9-20140406-0ubuntu1_armhf.deb
+libstdc++6 4.8.2-19ubuntu1 http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gcc-4.8/libstdc++6_4.8.2-19ubuntu1_armhf.deb
+multiarch-support 2.19-0ubuntu6 http://ports.ubuntu.com/ubuntu-ports/pool/main/e/eglibc/multiarch-support_2.19-0ubuntu6_armhf.deb
