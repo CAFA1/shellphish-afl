@@ -4987,13 +4987,14 @@ static u8 fuzz_one(char** argv) {
   }
 
 #endif /* ^IGNORE_FINDS */
-  //long long
+  //long long add transitions in fuzz_one long
   cur_ms = get_cur_time();
   if (not_on_tty) {
-    ACTF("%s,Fuzzing test case #%u (%u total, %llu uniq crashes found)...",DTD(cur_ms,start_time),
-         current_entry, queued_paths, unique_crashes);
+    ACTF("%s,Fuzzing test case #%u (%u total, %llu transitions, %llu uniq crashes found)...",DTD(cur_ms,start_time),
+         current_entry, queued_paths, count_bits(virgin_bits), unique_crashes);
     fflush(stdout);
   }
+
 
   /* Map the test case into memory. */
 
